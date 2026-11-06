@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sylvia
+# Hi 👋, I'm hanaring
 
 - 🔭 I'm currently working on **华南理工大学 软件工程 27届**
 
